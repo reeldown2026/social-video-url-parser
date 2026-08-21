@@ -120,7 +120,7 @@ This is a URL parser, not a downloader. It does not fetch media, call any API, o
 Bug reports and pull requests are welcome. If you find a URL shape that is not handled, please open an issue with the example URL.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/social-video-url-parser.git
+git clone https://github.com/reeldown2026/social-video-url-parser.git
 cd social-video-url-parser
 npm test
 ```
