@@ -1,9 +1,12 @@
 {
   "name": "social-video-url-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero-dependency parser for Instagram, Facebook and Pinterest URLs. Detects platform, content type and media ID from any post, reel, story or pin link.",
   "main": "src/index.js",
-  "bin": { "social-url-parse": "./bin/cli.js" },
+    "bin": {
+    "social-url-parse": "bin/cli.js",
+    "social-video-url-parser": "bin/cli.js"
+  },
   "files": ["src", "bin", "README.md", "LICENSE"],
   "scripts": { "test": "node test/parse.test.js" },
   "keywords": [
