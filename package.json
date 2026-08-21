@@ -1,0 +1,19 @@
+{
+  "name": "social-video-url-parser",
+  "version": "1.0.0",
+  "description": "Zero-dependency parser for Instagram, Facebook and Pinterest URLs. Detects platform, content type and media ID from any post, reel, story or pin link.",
+  "main": "src/index.js",
+  "bin": { "social-url-parse": "./bin/cli.js" },
+  "files": ["src", "bin", "README.md", "LICENSE"],
+  "scripts": { "test": "node test/parse.test.js" },
+  "keywords": [
+    "instagram", "facebook", "pinterest", "url-parser", "reels",
+    "social-media", "video", "permalink", "shortcode", "url"
+  ],
+  "author": "ReelDown (https://reeldown.app)",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/YOUR-USERNAME/social-video-url-parser.git" },
+  "homepage": "https://github.com/YOUR-USERNAME/social-video-url-parser#readme",
+  "bugs": { "url": "https://github.com/YOUR-USERNAME/social-video-url-parser/issues" },
+  "engines": { "node": ">=14" }
+}
