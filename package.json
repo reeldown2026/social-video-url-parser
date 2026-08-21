@@ -12,8 +12,8 @@
   ],
   "author": "ReelDown (https://reeldown.app)",
   "license": "MIT",
-  "repository": { "type": "git", "url": "git+https://github.com/YOUR-USERNAME/social-video-url-parser.git" },
-  "homepage": "https://github.com/YOUR-USERNAME/social-video-url-parser#readme",
-  "bugs": { "url": "https://github.com/YOUR-USERNAME/social-video-url-parser/issues" },
+  "repository": { "type": "git", "url": "git+https://github.com/reeldown2026/social-video-url-parser.git" },
+  "homepage": "https://github.com/reeldown2026/social-video-url-parser#readme",
+  "bugs": { "url": "https://github.com/reeldown2026/social-video-url-parser/issues" },
   "engines": { "node": ">=14" }
 }
