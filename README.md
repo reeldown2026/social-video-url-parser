@@ -1,6 +1,6 @@
 # social-video-url-parser
 
-[![test](https://github.com/YOUR-USERNAME/social-video-url-parser/actions/workflows/test.yml/badge.svg)](https://github.com/YOUR-USERNAME/social-video-url-parser/actions/workflows/test.yml)
+[![test](https://github.com/reeldown2026/social-video-url-parser/actions/workflows/test.yml/badge.svg)](https://github.com/reeldown2026/social-video-url-parser/actions/workflows/test.yml)
 [![npm](https://img.shields.io/npm/v/social-video-url-parser.svg)](https://www.npmjs.com/package/social-video-url-parser)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
